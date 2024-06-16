@@ -1,0 +1,6 @@
+{
+    "backward_prefetch": "backward_pre",
+    "forward_prefetch": "true",
+    "activation_checkpointing": true,
+    "use_orig_params": "true"
+}
